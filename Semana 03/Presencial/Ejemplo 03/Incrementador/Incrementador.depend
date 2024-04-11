@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1712272200 source:c:\users\utn\github\laboratorio2-20241c\semana 03\ejemplo 03\incrementador\incrementador.cpp
+	"Incrementador.h"
+
+1712272162 c:\users\utn\github\laboratorio2-20241c\semana 03\ejemplo 03\incrementador\incrementador.h
+
+1712272235 source:c:\users\utn\github\laboratorio2-20241c\semana 03\ejemplo 03\incrementador\main.cpp
+	<iostream>
+	"Incrementador.h"
+
