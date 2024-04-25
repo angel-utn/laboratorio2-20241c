@@ -33,7 +33,7 @@ class Producto {
 
    private:
       int _id;
-      std::string _nombre;
+      char _nombre[100];
       float _precio;
       int _stock;
       int _stockMinimo;

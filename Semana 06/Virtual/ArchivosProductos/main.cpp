@@ -11,6 +11,30 @@ int main () {
    
    
    
+   
+   
+   
+   
+   /**
+   Producto p;
+   
+   p.setNombre("Brian Laras");
+   
+   if(p.getNombre().size() > 20){
+      cout << "El nombre es muy largo...";
+   }
+   
+   if(p.getNombre() == "Brian Lara"){
+      cout << "Hola!!";
+   }
+   else{
+      cout << "quien te conoce...";
+   }
+   */
+   
+   
+   
+   
    /*
    int v[5]{1,2,3,4,5};
    Fecha fechas[5]{

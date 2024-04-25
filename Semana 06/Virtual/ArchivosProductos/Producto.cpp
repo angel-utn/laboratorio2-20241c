@@ -1,10 +1,11 @@
+#include <cstring>
 #include "Producto.h"
 
 Producto::Producto()
 : _fechaVencimiento(1,1,1)
 {
    _id = 0;
-   _nombre = "";
+   strcpy(_nombre, "");
    _precio = 0.0f;
    _stock = 0;
    _stockMinimo = 0;
@@ -36,8 +37,14 @@ void Producto::setID(int id){
 std::string Producto::getNombre(){
    return _nombre;
 }
+
 void Producto::setNombre(std::string nombre){
-   _nombre = nombre;
+   if(nombre.size() <= 100){
+      strcpy(_nombre, nombre.c_str());
+   }
+   else{
+      strcpy(_nombre, "SIN DATOS");
+   }
 }
 
 float Producto::getPrecio(){
