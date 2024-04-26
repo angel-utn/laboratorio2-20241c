@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1714086602 source:c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\main.cpp
+	<iostream>
+	"ProductoManager.h"
+	"Producto.h"
+
+1714088751 c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\productomanager.h
+	"ProductoArchivo.h"
+	"Producto.h"
+
+1714088214 source:c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\productoarchivo.cpp
+	"ProductoArchivo.h"
+
+1714088327 source:c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\productomanager.cpp
+	<iostream>
+	<cstdlib>
+	"ProductoManager.h"
+
+1714084820 source:c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"fecha.h"
+
+1714084440 c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\fecha.h
+	<string>
+	<cstring>
+
+1714087137 c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\producto.h
+	<string>
+	"Fecha.h"
+
+1714087392 source:c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+
+1714088513 c:\users\utn\github\laboratorio2-20241c\semana 06\productosarchivos\productoarchivo.h
+	<string>
+	"Producto.h"
+
