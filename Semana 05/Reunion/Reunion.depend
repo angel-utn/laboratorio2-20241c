@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1713482350 source:d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1713476932 d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\fecha.h
+	<string>
+
+1713484693 source:d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\main.cpp
+	<vector>
+	<iostream>
+	"Reunion.h"
+	"Persona.h"
+	"Hora.h"
+	"Fecha.h"
+
+1713484723 d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\reunion.h
+	"Fecha.h"
+	"Hora.h"
+	"Persona.h"
+
+1713476983 d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\hora.h
+	<string>
+
+1713484870 source:d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\reunion.cpp
+	<iostream>
+	"Reunion.h"
+
+1713482637 source:d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\hora.cpp
+	<iostream>
+	<ctime>
+	"Hora.h"
+
+1713477942 source:d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\persona.cpp
+	"Persona.h"
+
+1713477893 d:\desarrollo\utn\laboratorio2-20241c\semana 05\reunion\persona.h
+	<string>
+
