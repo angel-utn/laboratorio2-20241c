@@ -1,0 +1,3 @@
+CODIGOS DE ERRORES
+   
+-300 No pudo abrir el archivo de Productos
