@@ -1,0 +1,7 @@
+Reportes
+
+Listar todas los productos que pertenezcan a un categoria a partir de su ID
+Listar todas los productos a partir de un nombre
+Listar cantidad de productos por categoría
+Listar producto más caro por categoría
+Listar productos ordenados por precio (de mayor a menor)

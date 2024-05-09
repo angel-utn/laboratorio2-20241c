@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1714085443 source:e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1714085444 e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\fecha.h
+	<string>
+
+1714688196 source:e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\main.cpp
+	<iostream>
+	"ProductosManager.h"
+
+1714692580 e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\productosmanager.h
+	"Producto.h"
+	"ProductoArchivo.h"
+
+1714087478 e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\producto.h
+	<string>
+	"Fecha.h"
+
+1714696313 e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\productoarchivo.h
+	"Producto.h"
+
+1714088607 source:e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1714696317 source:e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\productoarchivo.cpp
+	"ProductoArchivo.h"
+
+1714694469 source:e:\projects\utn\noche\laboratorio2-20241c\semana 07\archivosproductos\productosmanager.cpp
+	<iostream>
+	"ProductosManager.h"
+
+1715285323 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\appmanager.cpp
+	<iostream>
+	"AppManager.h"
+
+1715284514 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\appmanager.h
+	"ProductosManager.h"
+	"CategoriasManager.h"
+
+1715296448 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\productosmanager.h
+	"Producto.h"
+	"ProductoArchivo.h"
+	"CategoriaArchivo.h"
+
+1715291999 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\producto.h
+	<string>
+	"Fecha.h"
+
+1715276234 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\fecha.h
+	<string>
+
+1715276234 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\productoarchivo.h
+	"Producto.h"
+
+1715284251 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\categoriasmanager.h
+	"Categoria.h"
+	"CategoriaArchivo.h"
+
+1715294019 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\categoria.h
+	<string>
+
+1715284378 d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\categoriaarchivo.h
+	"Categoria.h"
+
+1715294306 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\categoria.cpp
+	"Categoria.h"
+	<cstring>
+
+1715284064 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\categoriaarchivo.cpp
+	"CategoriaArchivo.h"
+
+1715291258 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\categoriasmanager.cpp
+	"CategoriasManager.h"
+	<iostream>
+
+1715276234 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1715292153 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1715290256 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\productoarchivo.cpp
+	"ProductoArchivo.h"
+
+1715294145 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\productosmanager.cpp
+	<iostream>
+	"ProductosManager.h"
+	"Categoria.h"
+
+1715289371 source:d:\desarrollo\utn\laboratorio2-20241c\semana 08\archivosproductos\main.cpp
+	<iostream>
+	"AppManager.h"
+
